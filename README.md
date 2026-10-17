@@ -19,8 +19,6 @@ The HTML pages reference PHP handlers and display pages intended to connect the 
 - 📋 Navigation for movies, profiles, and payments
 - 🗄️ PHP integration points for database-related operations
 
-> Confirm which features and CRUD operations are fully functional before publishing the final feature list.
-
 ## 🛠️ Technologies Used
 
 - HTML
