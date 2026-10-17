@@ -47,14 +47,12 @@ netflix-crud-operations/
 
 ## 🗄️ Database Operations
 
-The project is intended to demonstrate database-related operations for application data such as profiles, media, and subscription records.
+The project is intended to demonstrate database-related CRUD operations for application data such as profiles, media, and subscription records.
 
-Document the implemented operations here after verifying the backend:
-
-- **Create:** 
-- **Read:** 
-- **Update:** 
-- **Delete:** 
+- **Create:** Insert new movie records into the database.
+- **Read:** Retrieve and display movie and application data.
+- **Update:** Modify existing records in the database.
+- **Delete:** Remove existing records from the database.
 
 ## 🎨 Interface
 
@@ -62,7 +60,7 @@ The application includes a dark-themed interface inspired by Netflix streaming p
 
 ## 🎥 Project Demonstration
 
-A gameplay demonstration video is available here:
+A video demonstration  is available here:
 
 **[Add your demonstration video link]**
 
